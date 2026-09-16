@@ -1,4 +1,4 @@
-print("SISTEM TOKO UTAMA - Versi Anggota A")
+print("SISTEM TOKO UTAMA - Versi Integrasi Kelompok")
 from input_data import input_data
 from laporan import buat_laporan
 
